@@ -5,3 +5,4 @@ chromadb
 python-docx
 pdfplumber
 tiktoken
+langchain_community
